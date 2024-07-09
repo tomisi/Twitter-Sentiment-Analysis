@@ -18,7 +18,7 @@ The dataset comprises textual data sourced from twitter.
 - The classification report shows varying performance across sentiment classes, with Negative and Neutral sentiments poorly predicted compared to Positive sentiment.
 
 ## Conclusion
-While simpler models like SVC and logistic regression demonstrated robust performance, the LSTM model's lower accuracy highlights challenges related to dataset size and complexity. Further optimization and exploration of deep learning techniques may be beneficial for improving performance in sentiment analysis tasks.
+While simpler models like SVC and logistic regression demonstrated robust performance, the LSTM model's lower accuracy highlights challenges related to dataset size and complexity. Further optimization and exploration of deep learning techniques may be beneficial for improving the performance.
 
 ## Usage
 To replicate or further develop this project:
