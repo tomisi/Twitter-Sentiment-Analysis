@@ -1,5 +1,3 @@
-# Sentiment Analysis with LSTM Model
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([link_to_your_google_colab_notebook](https://colab.research.google.com/drive/1JMy2gfdFpKOufYjN57QqMx8LPm-Ezye2?usp=sharing))
 
 ## Project Overview: Analyzing Public Sentiment During the COVID-19 Pandemic (Client Project)
